@@ -2,7 +2,7 @@
 - 👀 I’m interested in Automation testing
 - 🌱 I’m currently learning Automation 
 - 💞️ I’m looking to collaborate on Automation testing projects
-- 📫 How to reach me through my email
+- 📫 How to reach me: you can reach me through email
 - 😄 Pronouns: ... Mr
 - ⚡ Fun fact: ... 
 
